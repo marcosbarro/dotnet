@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp1Project.core
+namespace Indigo.core
 {
     /// <summary>
     /// Clase para estructuración de listas en bloques o páginas,

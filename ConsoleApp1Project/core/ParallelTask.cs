@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Runtime.CompilerServices;
 
-namespace ConsoleApp1Project.core
+namespace Indigo.core
 {
     /// <summary>
     /// Clase para gestionar una tarea que a partir de una entrada devuelve una salida.
